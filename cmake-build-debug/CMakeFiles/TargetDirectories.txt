@@ -1,0 +1,3 @@
+D:/CLionProjects/the_game_of_live/cmake-build-debug/CMakeFiles/the_game_of_live.dir
+D:/CLionProjects/the_game_of_live/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/the_game_of_live/cmake-build-debug/CMakeFiles/rebuild_cache.dir

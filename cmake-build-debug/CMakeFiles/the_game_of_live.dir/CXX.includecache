@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/the_game_of_live/cells.h
+graphics.h
+D:/CLionProjects/the_game_of_live/graphics.h
+
+D:/CLionProjects/the_game_of_live/graphics.h
+easyx.h
+-
+
+D:/CLionProjects/the_game_of_live/main.cpp
+iostream
+-
+cells.h
+D:/CLionProjects/the_game_of_live/cells.h
+
